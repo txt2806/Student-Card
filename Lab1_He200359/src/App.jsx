@@ -3,7 +3,7 @@ import './App.css';
 
 
 const studentInfo = {
-  avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Dat",
+  avatar: "https://robohash.org/SE200359.png",
   fullName: "Trần Xuân Thành",
   studentId: "SE200359",
   className: "SE2009-NJ",
